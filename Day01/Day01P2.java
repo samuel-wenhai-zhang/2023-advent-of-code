@@ -1,8 +1,7 @@
 import java.io.*;
 import java.util.*;
-import static java.util.Map.entry;
 
-public class Day01 {
+public class Day01P2{
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(new File("day01.dat"));
         int sum = 0;
